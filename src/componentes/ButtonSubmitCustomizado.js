@@ -1,6 +1,6 @@
-import React from 'react';
+import React, { Component } from 'react';
 
-export default class ButtonSubmitCustomizado extends React.Component {
+export default class ButtonSubmitCustomizado extends Component {
     render() {
         return (
             <div className="pure-control-group">
